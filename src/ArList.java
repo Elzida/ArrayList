@@ -9,5 +9,8 @@ public class ArList {
 
         }
         System.out.println(arrayList);
+        System.out.println(arrayList.get(1));
+        System.out.println(arrayList.get(99));
+        System.out.println(arrayList.size());
     }
 }
